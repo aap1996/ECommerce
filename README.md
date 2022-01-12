@@ -4,18 +4,18 @@
 > <br/>
 > The website features a dynamic frontend using Redux for state managment and backend is desinged using Express.js, Node.js and MongoDB
 
-Features
--Full featured shopping cart
--Product reviews and ratings
--Top products carousel
--Product pagination
--Product search feature
--User profile with orders
--Admin product management
--Admin user management
--Admin Order details page
--Mark orders as delivered option
--Checkout process (shipping, payment method, etc)
--PayPal / credit card integration
--Database seeder (products & users)
--Note on Issues
+Features<br/>
+-Full featured shopping cart<br/>
+-Product reviews and ratings<br/>
+-Top products carousel<br/>
+-Product pagination<br/>
+-Product search feature<br/>
+-User profile with orders<br/>
+-Admin product management<br/>
+-Admin user management<br/>
+-Admin Order details page<br/>
+-Mark orders as delivered option<br/>
+-Checkout process (shipping, payment method, etc)<br/>
+-PayPal / credit card integration<br/>
+-Database seeder (products & users)<br/>
+-Note on Issues<br/>
